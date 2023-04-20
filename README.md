@@ -74,3 +74,10 @@ Create a table that breaks down school performance based on average spending ran
 ✔ Scores by School Size
 
 ✔ Scores by School Type
+
+### Writing Report can be founded into folder >Writing Report 
+
+
+
+
+
